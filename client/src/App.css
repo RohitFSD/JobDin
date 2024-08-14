@@ -1,0 +1,47 @@
+.Header{
+  background-color: black;
+  height: 73px;
+  color: aliceblue;
+  display: flex;
+  flex-direction: row;
+}
+.Home{
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 130px;
+
+}
+.Hometext{
+  margin-top: 100px;
+  color: black;
+  font-size: 50px;
+  align-items: center;
+  justify-content: center;
+  margin-left: 50px;
+}
+.Animateimg{
+  margin-left: 100px;
+
+
+}
+.postdiv{
+  background-color: #F5F5F5;
+  padding: 80px 200px;
+}
+.imgdiv{
+  background-color: #FFFFFF;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 10px;
+  align-items: center;
+}
+.Formtext{
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #FFFFFF;
+}
+
