@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = "http://localhost:8080";
+const API_URL = "http://jobdin-production.up.railway.app";
 
 export const savePost = async (payload)=>{
     try{
